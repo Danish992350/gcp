@@ -3,3 +3,4 @@
 *.tfvar
 *.json
 *.tfstate.backup
+*.hcl
